@@ -1,0 +1,8 @@
+
+    Pedido:
+    - Masa: normal - Precio: 3.02€
+    - Ingredientes:
+    * mozzarella - Precio: 1.81€
+* 4 quesos - Precio: 5.73€
+    
+Precio total: 10.56€
